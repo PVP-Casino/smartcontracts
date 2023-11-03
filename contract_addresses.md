@@ -1,0 +1,1 @@
+This file contains the latest test deployment addresses in the Goerli network<br/>ERC-20: [https://explorer.zetachain.com/address/0x52a6080033AC5E0804C798928c47eC1278Cf4B39](https://explorer.zetachain.com/address/0x52a6080033AC5E0804C798928c47eC1278Cf4B39)<br/>
